@@ -1,14 +1,15 @@
-{  
-   "name":"cfabhay/repos",
-   "description":"Testing Repo",
-   "require":{  
-      "php":"^5.4"
-   },
-   "authors":[  
-      {  
-         "name":"abhayjeet",
-         "email":"abhayjeet@codefire.in"
-      }
-   ],
-   "minimum-stability":"stable"
+{
+    "name": "cfabhay/repos",
+    "description": "Testing Repo",
+    "require": {
+        "php": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abhayjeet",
+            "email": "abhayjeet@codefire.in"
+        }
+    ],
+    "minimum-stability": "dev"
 }
