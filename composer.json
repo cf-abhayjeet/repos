@@ -15,7 +15,7 @@
       "profiles"
    ],
    "require":{ 
-      "cf-abhayjeet/repos"
+      "cfabhay/repos"
    },
    "authors":[  
       {  
