@@ -10,5 +10,5 @@
          "email":"abhayjeet@codefire.in"
       }
    ],
-   "minimum-stability":"dev"
+   "minimum-stability":"stable"
 }
