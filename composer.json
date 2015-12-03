@@ -9,10 +9,5 @@
 		"name": "abhayjeet",
 		"email": "abhayjeet@codefire.in"
 	}],
-	"autoload": {
-		"psr-4": {
-			"cfabhay/repos": "cf/"
-		}
-	},
 	"minimum-stability": "dev"
 }
