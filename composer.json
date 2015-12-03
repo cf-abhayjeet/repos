@@ -11,7 +11,7 @@
 	}],
 	"autoload": {
 		"psr-4": {
-			"cfabhay/repos": "vendor/"
+			"cfabhay/repos": "cf/"
 		}
 	},
 	"minimum-stability": "dev"
