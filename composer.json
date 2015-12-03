@@ -11,5 +11,10 @@
             "email": "abhayjeet@codefire.in"
         }
     ],
+     "autoload": {
+        "psr-4": {
+            "repos": "vendor/",
+        }
+    }
     "minimum-stability": "dev"
 }
