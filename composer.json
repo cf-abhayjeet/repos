@@ -14,9 +14,6 @@
       "profile",
       "profiles"
    ],
-   "require":{ 
-      "cfabhay/repos"
-   },
    "authors":[  
       {  
          "name":"abhayjeet",
